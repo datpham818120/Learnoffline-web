@@ -56,3 +56,4 @@ else:
     st.header("Mục tiêu nghiên cứu")
     st.write("Nghiên cứu liệu thuật toán ưu tiên câu từng trả lời sai hoặc lâu chưa ôn có hỗ trợ ghi nhớ tốt hơn chọn câu ngẫu nhiên hay không.")
     st.write("Bản web được triển khai trên mạng cần Internet để truy cập. Muốn dùng khi mất mạng cần phát triển thêm PWA/offline cache hoặc dùng bản Windows cục bộ.")
+ sprint("Đạt đẹp zai vaiz")
